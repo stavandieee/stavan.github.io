@@ -1,0 +1,117 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Stavan | Technical Systems Leader</title>
+    <style>
+        body {
+            font-family: 'Helvetica Neue', Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 20px;
+            color: #333;
+        }
+        
+        .header {
+            text-align: center;
+            padding: 40px 0;
+            border-bottom: 2px solid #eee;
+        }
+        
+        .domain-section {
+            margin: 40px 0;
+            padding: 20px;
+            border-radius: 8px;
+            background: #f9f9f9;
+        }
+        
+        .projects {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+            margin: 20px 0;
+        }
+        
+        .project-card {
+            padding: 20px;
+            border: 1px solid #eee;
+            border-radius: 8px;
+        }
+        
+        h1 { color: #2c3e50; }
+        h2 { color: #34495e; }
+        h3 { color: #455a64; }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Building Next-Generation Systems at Scale</h1>
+        <p>Technical Leader • Systems Architect • Innovation Driver</p>
+    </div>
+
+    <div class="domain-section">
+        <h2>🤖 Robotics & Automation</h2>
+        <p>Pioneering autonomous systems and industrial automation solutions that transform operations.</p>
+        <ul>
+            <li>Advanced robotics systems architecture</li>
+            <li>Computer vision and sensor fusion</li>
+            <li>Safety-critical control systems</li>
+            <li>Large-scale automation deployment</li>
+        </ul>
+    </div>
+
+    <div class="domain-section">
+        <h2>⚡ Hardware Infrastructure</h2>
+        <p>Architecting and scaling high-performance computing and sensing platforms.</p>
+        <ul>
+            <li>Hyperscale compute platforms</li>
+            <li>Edge computing architecture</li>
+            <li>Hardware development lifecycle</li>
+            <li>Global infrastructure deployment</li>
+        </ul>
+    </div>
+
+    <div class="domain-section">
+        <h2>🧠 AI & Intelligent Systems</h2>
+        <p>Building next-generation AI platforms and intelligent automation solutions.</p>
+        <ul>
+            <li>Distributed AI infrastructure</li>
+            <li>Real-time inference systems</li>
+            <li>Predictive analytics platforms</li>
+            <li>Machine learning operations</li>
+        </ul>
+    </div>
+
+    <h2>Featured Technical Innovations</h2>
+    <div class="projects">
+        <div class="project-card">
+            <h3>Autonomous Retail Platform</h3>
+            <p>Computer vision architecture processing 8TB/day with 99.2% accuracy at scale.</p>
+            <p><strong>Impact:</strong> 30% reduction in deployment time</p>
+        </div>
+
+        <div class="project-card">
+            <h3>Hyperscale Compute Infrastructure</h3>
+            <p>Next-gen compute platform serving millions of concurrent workloads.</p>
+            <p><strong>Impact:</strong> $450M+ platform value</p>
+        </div>
+
+        <div class="project-card">
+            <h3>Industrial Robotics Framework</h3>
+            <p>Safety-critical system deployed across 40+ global sites.</p>
+            <p><strong>Impact:</strong> 99.97% safety rating</p>
+        </div>
+    </div>
+
+    <div class="domain-section">
+        <h2>📜 Patents & Innovation</h2>
+        <ul>
+            <li>Distributed Sensor Fusion System for Real-time Decision Making</li>
+            <li>Automated Material Handling Architecture</li>
+            <li>Predictive Maintenance System for Industrial Automation</li>
+            <li>Intelligent Control Systems for Collaborative Robotics</li>
+        </ul>
+    </div>
+</body>
+</html>
